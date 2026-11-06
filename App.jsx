@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { 
   Calendar, Plus, Trash2, CheckCircle, Circle, ChefHat, 
-  ShoppingBag, Clock, Users, X, BookOpen, HelpCircle, Utensils, Pencil, Eye, Upload, Cloud, RefreshCw
+  ShoppingBag, Clock, Users, X, BookOpen, HelpCircle, Utensils, Pencil, Eye, Upload
 } from 'lucide-react';
 
 const INITIAL_RECIPES = [
